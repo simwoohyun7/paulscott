@@ -1,10 +1,31 @@
-<!doctype=html>
+<!doctype html>
 <html>
-<head>
-  
-<h1>심우현</h1>
+ <head>
+ <meta charset="UTF-8">
+ <title>Neverleaveualong</title>
 
-  </head>
-  
-  안녕하세요 저는 심우현입니다
-  
+git commit --allow-empty -m "Trigger rebuild" 
+git push﻿
+
+ <style>
+   body {
+    background-color: Black;
+  }
+ </style>
+ <h1><p style="color:#8A2BE2;">Neverleaveualong</h1></p>
+
+
+ </head>
+
+
+
+ <body>
+
+
+
+본문 
+
+
+
+ </body>
+ </html>
