@@ -3,8 +3,12 @@
  <head>
  <meta charset="UTF-8">
  <title>Neverleaveualong</title>
- 
- 헤드 
+ <style>
+   body {
+    background-color: Black;
+  }
+ </style>
+ <h1><p style="color:#8A2BE2;">Neverleaveualong</h1></p>
 
 
  </head>
@@ -19,4 +23,3 @@
 
 
  </body>
-</html>
