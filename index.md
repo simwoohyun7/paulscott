@@ -4,9 +4,6 @@
  <meta charset="UTF-8">
  <title>Neverleaveualong</title>
 
-git commit --allow-empty -m "Trigger rebuild" 
-git push﻿
-
  <style>
    body {
     background-color: Black;
