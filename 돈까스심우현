@@ -1,0 +1,63 @@
+<!doctype>
+<html>
+<head>
+  <meta charset="utf-8">
+  <link rel="stylesheet" href="style.css">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@1,700&display=swap" rel="stylesheet">
+  <title>
+  Neverleaveualong
+  </title>   
+  <script src="https://kit.fontawesome.com/a99e9d4188.js" crossorigin="anonymous">
+  </script>
+</head> 
+<body>
+
+   <nav class="navbar">
+      <div class="navbar__logo">
+         <i class="fas fa-dragon"></i>
+          <a href="">
+           돈까스심우현
+          </a>
+      </div>
+
+
+      <ul class="navbar__menu">
+        <li><a href="">Home</a></li>
+        <li><a href="">Gallery</a></li>
+        <li><a href="">Skills</a></li>
+        <li><a href="">FAQ</a></li>
+        <li><a href="">Bookings</a></li>
+        
+
+      
+
+      </ul>
+
+      <ul class="navbar__icons">
+       <li><i class="fab fa-instagram"></i></li>
+       <li><i class="fas fa-rocket"></i></li>
+       
+    
+      </ul>
+
+   </nav>
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+</html>
