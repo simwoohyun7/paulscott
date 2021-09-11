@@ -54,9 +54,37 @@ a {
 
 .navbar__icons li {
  padding: 8px 5px;
+ font-size: 40px;
 
 }
+.picture li {
+ text-align: center;
+ list-style: none;
 
+ }
+
+.pr li {
+ font-size: 34px;
+ list-style: none;
+ text-align: center;
+ padding: 34px 5px;
+}
+
+.sr li{
+ list-style: none;
+ font-size: 20px;
+ text-align: center;
+ color: #8C8C8C;
+}
+
+.text li{
+ list-style: none;
+ font-size: 15px;
+ text-align: center;
+ padding: 5px 0px;
+
+
+}
 
 
 
