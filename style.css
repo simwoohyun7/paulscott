@@ -61,7 +61,9 @@ a {
  text-align: center;
  list-style: none;
  
-.picture li{
+}
+ 
+.picture img {
     border-radius: 50%;
     width:350px;
     height:350px;
