@@ -60,6 +60,10 @@ a {
 .picture li {
  text-align: center;
  list-style: none;
+ 
+.picture img{
+    border-radius: 80%;
+}
 
  }
 
