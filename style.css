@@ -112,6 +112,16 @@ a {
     color:blue;
 }
 
+.skk li {
+  text-align: center;
+  list-style: none;
+  font-size: 55px;
+  padding: 35px 0px;
+  color: rgb(104, 15, 206);
+  
+  
+  
+}
 
 @media screen and (max-width: 768px) {
   .navbar {
